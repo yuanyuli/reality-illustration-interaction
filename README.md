@@ -23,11 +23,13 @@
 
 - [台灯聚光提示词](examples/lamp-spotlight.txt)：真实灯光跨过纸边，照亮铅笔舞者。
 - [钢笔成河提示词](examples/pen-river.txt)：真实笔尖接纸，蓝墨线连续成为彩铅河道。
+- [汤匙池塘提示词](examples/spoon-pond.txt)：真实汤匙跨纸边，墨线钓竿落入匙碗。
 
 ![台灯聚光示例](examples/images/lamp-spotlight.png)
 ![钢笔成河示例](examples/images/pen-river.png)
+![汤匙池塘示例](examples/images/spoon-pond.png)
 
-这两张图各按六项标准通过；它们没有原照片输入，不能证明原图编辑保真。项目里的失败图、超时记录和完整验收表保存在 1010 期制作目录，公开仓库只提供可复用 Skill 与通过的示例。
+这三张图各按六项标准通过；它们没有原照片输入，不能证明原图编辑保真。汤匙图的水层较浅，仍可优化。项目里的失败图、超时记录和完整验收表保存在 1010 期制作目录，公开仓库只提供可复用 Skill 与通过的示例。
 
 ## 许可证
 
