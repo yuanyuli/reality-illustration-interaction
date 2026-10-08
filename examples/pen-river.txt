@@ -1,0 +1,15 @@
+Create one cohesive vertical editorial image, 1024x1536, where a photographed real fountain pen starts a flat hand-drawn world. Input mode: generate a new scene from text; no source photograph is being edited.
+
+Photographic truth: one real midnight-blue metal fountain pen lies diagonally across a clean pale-gray desk in the upper part of the image. Its polished steel nib extends onto a large white drawing sheet below. The barrel, nib slit, metallic highlights, desk grain, and natural contact shadow are convincing photography. Do not replace the pen with a drawing.
+
+Visual transformation: the one continuous line of real blue ink leaving the nib becomes the source of a little hand-drawn river on the white sheet. The river widens naturally as it travels through a spare colored-pencil landscape. The nib's real ability to lay down ink makes the transformation plausible.
+
+Contact geometry: trace the photographed pen barrel from the desk across the clearly visible upper edge of the white paper, to the single steel nib touching the paper. Begin the blue ink river at that exact nib-paper contact, with no gap or second source. The river then winds down through the drawing. On the riverbank, two small two-dimensional colored-pencil figures push one tiny paper boat into the water; the boat touches the river, and their hands touch the boat. Keep the contact chain continuous.
+
+Illustrated action: two flat, softly colored-pencil figures work together to launch the boat onto the river born from the real pen. Both complete figures, the boat, riverbanks, and plants belong wholly to the flat white PAPER region. The drawn scene must lose its river source if the real pen is removed.
+
+Composition: upper third is photographic desk and pen body with real depth; lower two-thirds are flat white paper carrying only delicate colored-pencil riverbanks, two figures, boat, and a few reeds. Make the paper edge and media contrast immediately visible at phone width. The pen and ink line are the only cross-media link. Reserve uncluttered space around the contact point and keep the river line readable.
+
+Color and light: cool daylight, deep real blue pen, restrained ink blue, moss-green and a very small vermilion colored-pencil accent. Coherent soft shadow from the real pen; no colored-pencil marks on the photographed desk.
+
+No text, captions, logos, watermark, extra pens, extra ink sources, disconnected river, photoreal people, photographic landscape on the paper, hand-drawn desk, clip art, magical particles, fake paper tear, or decorative splashes.

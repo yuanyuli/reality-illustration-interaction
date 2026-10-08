@@ -1,0 +1,15 @@
+Create one cohesive vertical editorial image, 1024x1536, where photographed reality gives a functional light source to a flat pencil-drawn scene. Input mode: generate a new scene from text; no source photograph is being edited.
+
+Photographic truth: on a dark walnut desk in the upper part of the image stands one convincingly real matte forest-green adjustable desk lamp. Show its metal lamp head, joint, cable, natural wear, and real surface reflections. The lamp head points diagonally down toward a large clean white drawing sheet below it. Keep the desk and lamp photographic, with depth and believable warm light.
+
+Visual transformation: the real lamp's warm cone of light becomes the only theater spotlight for a tiny graphite-pencil stage drawn on the sheet. The lamp must remain a real manufactured object, not an illustration. The light, rather than a decorative glow, must visibly control where the paper stage is bright.
+
+Contact geometry: trace the light from the real bulb inside the green lamp head, across the visible upper edge of the white paper, and down to one distinct oval light pool centered on the drawn stage. The central drawn dancer stands inside that light pool, feet on a visible pencil-drawn stage floor. Two seated pencil-drawn spectators remain outside the pool in light graphite. Do not detach the beam from its source or put a second light on the paper.
+
+Illustrated action: one clearly flat graphite dancer is turning in the center of the spotlight; two tiny flat graphite spectators watch from the paper stage edge. All complete figures and their stage remain inside the flat white PAPER area. Their faces and gestures are simple but legible at phone width. Without the lamp light, the staged performance loses its visual focus.
+
+Composition: the upper two-fifths contain the photographed lamp and walnut desk. The lower three-fifths are a top-down view of an uncreased white sheet with flat pencil lines and no photographed theater architecture behind the characters. The crisp paper edge makes the boundary visible. The real light cone alone crosses it. Use generous white space and a clear small focal action.
+
+Color and light: deep natural green metal, dark walnut, warm amber light, cool white paper, restrained gray graphite. One light direction; the paper has real light falloff while the stage remains unmistakably hand drawn.
+
+No text, captions, logo, watermark, duplicate lamps, photoreal dancers, miniature theater set, photographic scenery on the drawing sheet, graphite theater scenery on the wooden desk, pasted-on clip art, fog, magical particles, torn paper, or unrelated props.

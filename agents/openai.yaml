@@ -1,0 +1,4 @@
+interface:
+  display_name: "现实与手绘互动"
+  short_description: "让真实物件与手绘角色在一张图里发生联系"
+  default_prompt: "请使用 $reality-illustration-interaction，为我设计一张真实物件参与手绘故事的图片。先判断是否真的收到原照片，列出物件、画中用途、物理接点和角色动作，再给出可复制提示词与验收标准。"
